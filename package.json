@@ -1,0 +1,12 @@
+{
+  "name": "PanameBot",
+  "version": "0.1.0",
+  "description": "Bot discord de PanameRP",
+  "main": "main.js",
+  "repository": "https://github.com/JohnInDev/PanameBot.git",
+  "author": "JohnInDev <panamerp.gmod@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "discordjs/discord.js"
+  }
+}
